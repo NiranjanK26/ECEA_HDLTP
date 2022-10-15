@@ -5,4 +5,4 @@ Regarding HDL and Verilog Projects.
 I am choosing my stream of language as Verilog.
 
 # Week 2
-
+Used a behavioural logic to  designa 2 but full adder.
